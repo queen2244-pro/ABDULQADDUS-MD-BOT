@@ -22,18 +22,19 @@
 
   <h3>🚀 DEPLOYMENT CENTER</h3>
   
-  <p>Click the button below to deploy your own instance instantly.</p>
+  <p>Click the buttons below to get your Pair Code and deploy your instance on Heroku.</p>
 
-  <a href="">
-    <img src="https://img.shields.io/badge/DEPLOY%20NOW-WEBSITE-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
-  </a>
+  <p>
+    <a href="https://abdulqaddus-pair.onrender.com">
+       <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pair Code" height="35">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/queen2244-pro/ABDULQADDUS-MD">
+       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="35">
+    </a>
+  </p>
 
   <br>
-  <br>
-
-  <a href="https://gitlab.com/prabathLK/prabath-md/-/forks/new">
-    <img src="https://img.shields.io/badge/FORK%20REPO-GITLAB-orange?style=for-the-badge&logo=gitlab" alt="Fork on GitLab">
-  </a>
 
 </div>
 
@@ -82,23 +83,11 @@
 
 <div align="center">
 
-<a href="https:///terms">
-  <img src="https://img.shields.io/badge/Terms%20%26%20Conditions-Read%20Here-red?style=flat-square" alt="Terms">
-</a>
-">
-  <img src="https://img.shields.io/badge/Report%20an%20Issue-Contact%20Support-orange?style=flat-square" alt="Issues">
-</a>
-
 <br>
-<br>
-
-<a href="https://www.buymeacoffee.com/PrabathKumara">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" >
-</a>
 
 <p>
   <code>Released: 2023.08.24</code> | <code>Last Updated: 2026.01.04</code>
 </p>
-<p>Made with ❤️ in ABDULQADDUS 🇵🇰</p>
+<p>Made with ❤️ in ABDULQADDUS 🇵ランク</p>
 
 </div>
