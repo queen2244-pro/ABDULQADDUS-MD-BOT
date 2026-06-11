@@ -1,0 +1,31 @@
+{
+  "name": "ABDULQADDUS-MD (4.5.0)",
+  "description": "ABDULQADDUS-MD is a Powerful Whatsapp bot 👨‍💻❤️",
+  "logo": "https://pmd-img2url.koyeb.app/v/87423a58ab6ebcba1a36b1f4ab2107b6.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": false
+    },  
+
+    "DATABASE": {
+      "description": "put any one database URL — Github token, MongoDB, MySQL, or PostgreSQL.",
+      "required": true
+    }   
+  },
+
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"  
+}
